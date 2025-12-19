@@ -1,0 +1,8 @@
+prefix=/home/quoctrieu/ur5_ws/devel
+
+Name: ur5_control
+Description: Description of ur5_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

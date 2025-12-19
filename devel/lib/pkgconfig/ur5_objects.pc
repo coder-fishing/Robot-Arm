@@ -1,0 +1,8 @@
+prefix=/home/quoctrieu/ur5_ws/devel
+
+Name: ur5_objects
+Description: Description of ur5_objects
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
